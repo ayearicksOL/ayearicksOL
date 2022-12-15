@@ -1,16 +1,17 @@
-### Hi there 👋
+👋 Hi, I’m @ayearicksOL
 
-<!--
-**ayearicksOL/ayearicksOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:blush: My pronouns are ... she/her
 
-Here are some ideas to get you started:
+👀 I’m interested in ... web development, game development, and coding in general.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:books: I’m currently ... beefing up my JS and DSA knowledge before trying to tackle React. I'm also dabbling with the Godot Game Engine. :video_game:
+
+:handshake: I’m looking to collaborate on ... any front end web dev work or any indie Godot game. :woman_technologist:
+
+:computer: How to reach me ... 
+
+:bird: Twitter: @jessarin5
+
+:email: email: <ashley.yearicks@gmail.com>
+
+:keyboard: Discord: Jessarin#6469
