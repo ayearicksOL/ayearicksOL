@@ -1,4 +1,4 @@
-👋 Hi, I’m @ayearicksOL
+👋 Hi, I’m @ayearicks
 
 :blush: My pronouns are ... she/her
 
