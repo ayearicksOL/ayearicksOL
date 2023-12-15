@@ -10,8 +10,6 @@
 
 :computer: How to reach me ... 
 
-:bird: Twitter: @jessarin5
-
 :email: email: <ashley.yearicks@gmail.com>
 
 :keyboard: Discord: Jessarin#6469
