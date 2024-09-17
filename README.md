@@ -4,7 +4,7 @@
 
 👀 I’m interested in ... web development, game development, and coding in general.
 
-:books: I’m currently ... beefing up my JS and DSA knowledge before trying to tackle React. I'm also dabbling with the Godot Game Engine. :video_game:
+:books: I’m currently ... practicing DSA challenges and dabbling with the Godot Game Engine. :video_game:
 
 :handshake: I’m looking to collaborate on ... any front end web dev work or any indie Godot game. :woman_technologist:
 
